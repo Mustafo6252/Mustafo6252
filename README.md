@@ -5,7 +5,7 @@ I am a backend developer.
 I am a 3rd year student at INHA university
 
 ## Technologies I Work With
-- **Programming Languages:** C#, JavaScript
+- **Programming Languages:** C#, JavaScript, C++
 - **Version Control:** Git, GitHub
 - **Frameworks:** .NET
 
