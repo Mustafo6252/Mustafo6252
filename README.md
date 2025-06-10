@@ -2,20 +2,17 @@
 I am a backend developer.
 
 ## About Me
-I specialize in building efficient and scalable backend solutions using modern technologies. My expertise includes:
-- API development
-- Database management
-- Performance optimization
+I am a 3rd year student at INHA university
 
 ## Technologies I Work With
-- **Programming Languages:** C#, Python, JavaScript
-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Programming Languages:** C#, JavaScript
 - **Version Control:** Git, GitHub
-- **Frameworks:** .NET, Django, Express.js
+- **Frameworks:** .NET
 
 ## Contact Me
 Feel free to reach out for collaboration or discussions!
 
-📧 Email: ravshanovmustafo88@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-💼 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+📧 Email: mustaforavshanov88@gmail.com  
+🔗 Telegram: (@Mustafo_Ravshanov)  
+💼 GitHub: (https://github.com/Mustafo6252)
+
