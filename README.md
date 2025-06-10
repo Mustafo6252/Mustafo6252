@@ -1,16 +1,16 @@
-## Hi Welcome to my profile
+** ## Hi  Welcome to my profile **
 # My Name is Mustafo Ravshanov
 I am a backend developer.
 
-## About Me
+** ## About Me **
 I am a 3rd year student at INHA university
 
-## Technologies I Work With
+** ## Technologies I Work With **
 - **Programming Languages:** C#, JavaScript, C++
 - **Version Control:** Git, GitHub
 - **Frameworks:** .NET
 
-## Contact Me
+** ## Contact Me **
 Feel free to reach out for collaboration or discussions!
 
 📧 Email: mustaforavshanov88@gmail.com  
