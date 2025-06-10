@@ -1,16 +1,21 @@
-## Hi there 👋
+# My Name is Mustafo Ravshanov
+I am a backend developer.
 
-<!--
-**Mustafo6252/Mustafo6252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I specialize in building efficient and scalable backend solutions using modern technologies. My expertise includes:
+- API development
+- Database management
+- Performance optimization
 
-Here are some ideas to get you started:
+## Technologies I Work With
+- **Programming Languages:** C#, Python, JavaScript
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Frameworks:** .NET, Django, Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+Feel free to reach out for collaboration or discussions!
+
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+💼 GitHub: [Your GitHub Profile](https://github.com/yourusername)
