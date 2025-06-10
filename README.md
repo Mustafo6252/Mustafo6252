@@ -16,6 +16,6 @@ I specialize in building efficient and scalable backend solutions using modern t
 ## Contact Me
 Feel free to reach out for collaboration or discussions!
 
-📧 Email: your.email@example.com  
+📧 Email: ravshanovmustafo88@gmail.com  
 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 💼 GitHub: [Your GitHub Profile](https://github.com/yourusername)
